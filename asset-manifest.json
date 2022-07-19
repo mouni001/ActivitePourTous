@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ActivitePourTous/static/css/main.78427a70.css",
-    "main.js": "/ActivitePourTous/static/js/main.e1bfe1fa.js",
+    "main.js": "/ActivitePourTous/static/js/main.09327350.js",
     "static/js/787.71e672d5.chunk.js": "/ActivitePourTous/static/js/787.71e672d5.chunk.js",
     "static/media/videoBg.mp4": "/ActivitePourTous/static/media/videoBg.b6302f2c86c7349cfb48.mp4",
     "static/media/Yoga-portrait-des-avantages.jpg": "/ActivitePourTous/static/media/Yoga-portrait-des-avantages.3492ac1cfa17b859be40.jpg",
@@ -28,11 +28,11 @@
     "static/media/enfants.jpg": "/ActivitePourTous/static/media/enfants.28725731aa6b13b262e1.jpg",
     "index.html": "/ActivitePourTous/index.html",
     "main.78427a70.css.map": "/ActivitePourTous/static/css/main.78427a70.css.map",
-    "main.e1bfe1fa.js.map": "/ActivitePourTous/static/js/main.e1bfe1fa.js.map",
+    "main.09327350.js.map": "/ActivitePourTous/static/js/main.09327350.js.map",
     "787.71e672d5.chunk.js.map": "/ActivitePourTous/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78427a70.css",
-    "static/js/main.e1bfe1fa.js"
+    "static/js/main.09327350.js"
   ]
 }
