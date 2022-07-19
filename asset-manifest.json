@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/ActivitePourTous/static/css/main.78427a70.css",
+    "main.js": "/ActivitePourTous/static/js/main.71a9be56.js",
+    "static/js/787.71e672d5.chunk.js": "/ActivitePourTous/static/js/787.71e672d5.chunk.js",
+    "static/media/videoBg.mp4": "/ActivitePourTous/static/media/videoBg.b6302f2c86c7349cfb48.mp4",
+    "static/media/Yoga-portrait-des-avantages.jpg": "/ActivitePourTous/static/media/Yoga-portrait-des-avantages.3492ac1cfa17b859be40.jpg",
+    "static/media/peinture.jfif": "/ActivitePourTous/static/media/peinture.4cae552bdb95a3dfbd75.jfif",
+    "static/media/aqua-form.jpg": "/ActivitePourTous/static/media/aqua-form.6f85e267d1191e39cb79.jpg",
+    "static/media/velo.jpg": "/ActivitePourTous/static/media/velo.7045f71769b56cd2232d.jpg",
+    "static/media/escalade.jpg": "/ActivitePourTous/static/media/escalade.b33c6dc3045154c9bde2.jpg",
+    "static/media/Famille_2.jpg": "/ActivitePourTous/static/media/Famille_2.5742078131903b44eadc.jpg",
+    "static/media/cuisinehomme.jpg": "/ActivitePourTous/static/media/cuisinehomme.17cde9810961371badca.jpg",
+    "static/media/ESCALADEC.jpg": "/ActivitePourTous/static/media/ESCALADEC.23b209f711486ca48766.jpg",
+    "static/media/personne-agée.jpg": "/ActivitePourTous/static/media/personne-agée.6d465ee1997445b6cb09.jpg",
+    "static/media/artado.jpg": "/ActivitePourTous/static/media/artado.0a1bf644832ff4efe34b.jpg",
+    "static/media/gardening.jpg": "/ActivitePourTous/static/media/gardening.e139eeaf9ba2e228519d.jpg",
+    "static/media/art2.jpg": "/ActivitePourTous/static/media/art2.97eca1a968cd1141734e.jpg",
+    "static/media/femmes.jpg": "/ActivitePourTous/static/media/femmes.33d0ffc05791e2123bd2.jpg",
+    "static/media/cookingClass.jpg": "/ActivitePourTous/static/media/cookingClass.52aa83c17d356ec4e680.jpg",
+    "static/media/peinture.jpg": "/ActivitePourTous/static/media/peinture.94a7e7c3fad840d67d8d.jpg",
+    "static/media/poterie.jpg": "/ActivitePourTous/static/media/poterie.f440b483e60f0acd8d9e.jpg",
+    "static/media/homme.jpg": "/ActivitePourTous/static/media/homme.7481b93866413f9404cf.jpg",
+    "static/media/art.jpg": "/ActivitePourTous/static/media/art.ea7085465c77340b1c2c.jpg",
+    "static/media/ado.jpg": "/ActivitePourTous/static/media/ado.213d864d59667cea405c.jpg",
+    "static/media/female.png": "/ActivitePourTous/static/media/female.4cc3bcf520d878f8ed7c.png",
+    "static/media/male.png": "/ActivitePourTous/static/media/male.ca233d1e67a7b98ccf8b.png",
+    "static/media/enfants.jpg": "/ActivitePourTous/static/media/enfants.28725731aa6b13b262e1.jpg",
+    "index.html": "/ActivitePourTous/index.html",
+    "main.78427a70.css.map": "/ActivitePourTous/static/css/main.78427a70.css.map",
+    "main.71a9be56.js.map": "/ActivitePourTous/static/js/main.71a9be56.js.map",
+    "787.71e672d5.chunk.js.map": "/ActivitePourTous/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78427a70.css",
+    "static/js/main.71a9be56.js"
+  ]
+}
